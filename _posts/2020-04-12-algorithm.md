@@ -27,7 +27,7 @@ author: simjaeseo
 
 ---
 
-# 2. 스트라센 알고리즘(Strassen Algorithm)
+# 2. 스트라센 알고리즘 <br>(Strassen Algorithm)
 
 - ### 소개
 
